@@ -1,6 +1,6 @@
 {
   "ticker": "AVYRO",
-  "contractAddress": "0x4375CcE91664021F87A36f15bfa9c1f27d5fBC87",
+  "contractAddress": "",
   "buyUrl": "https://www.ponsfamily.com/launchpad/{ca}",
   "xUrl": "https://x.com/Avyroproto",
   "githubUrl": "https://github.com/AvyroProtocol/Avyro"
